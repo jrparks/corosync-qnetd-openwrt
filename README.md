@@ -1,5 +1,9 @@
 # Corosync QNetd for OpenWrt (ARM64)
 
+# ⚠️ Notice: This repository has moved!
+This project is no longer active here. Please visit the new home at:
+👉 [https://github.com/jrparks/corosync-qdevice-openwrt](https://github.com/jrparks/corosync-qdevice-openwrt)
+
 ## Overview
 
 Native OpenWrt build of `corosync-qnetd` and all dependencies, targeting aarch64/musl (OpenWrt 23.05).
